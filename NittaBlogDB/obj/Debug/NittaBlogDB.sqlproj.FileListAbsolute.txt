@@ -1,0 +1,10 @@
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\bin\Debug\NittaBlogDB.dacpac
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\obj\Debug\NittaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\obj\Debug\Model.xml
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\obj\Debug\refactor.xml
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\obj\Debug\predeploy.sql
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\obj\Debug\NittaBlogDB.dll
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\obj\Debug\NittaBlogDB.pdb
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\bin\Debug\NittaBlogDB.dll
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\NittaBlogDB\bin\Debug\NittaBlogDB.pdb
