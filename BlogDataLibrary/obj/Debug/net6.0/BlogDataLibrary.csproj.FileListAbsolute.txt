@@ -1,0 +1,12 @@
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\Kennichi\Documents\IT128L\NittaLE2\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
