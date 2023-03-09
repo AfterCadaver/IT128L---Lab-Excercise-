@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDataLibrary", "BlogDataLibrary\BlogDataLibrary.csproj", "{B8479C5E-4BD5-4DCC-A83A-5E792D567BB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogDataLibrary", "BlogDataLibrary\BlogDataLibrary.csproj", "{B8479C5E-4BD5-4DCC-A83A-5E792D567BB4}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "NittaBlogDB", "NittaBlogDB\NittaBlogDB.sqlproj", "{CE604BB1-BD69-4B8F-8AF3-54E95005E6DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogTestUI", "BlogTestUI\BlogTestUI.csproj", "{7402A588-0D8C-484B-91A4-7F98F8464EDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogTestUI", "BlogTestUI\BlogTestUI.csproj", "{7402A588-0D8C-484B-91A4-7F98F8464EDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogAPI", "BlogAPI\BlogAPI.csproj", "{C99AE64F-08AB-405C-A993-3A914620B4E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{7402A588-0D8C-484B-91A4-7F98F8464EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7402A588-0D8C-484B-91A4-7F98F8464EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7402A588-0D8C-484B-91A4-7F98F8464EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99AE64F-08AB-405C-A993-3A914620B4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99AE64F-08AB-405C-A993-3A914620B4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99AE64F-08AB-405C-A993-3A914620B4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99AE64F-08AB-405C-A993-3A914620B4E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -33,7 +33,9 @@ namespace BlogDataLibrary.Database
             }
             using (IDbConnection connection = new SqlConnection(connectionString))
             {
-                List<T> rows = connection.Query<T>(sqlStatement, parameters, commandType: commandType).ToList();
+                List<T> rows = connection.Query <T> (sqlStatement, parameters, commandType: commandType).ToList();
+
+
                 return rows;
             }
         }

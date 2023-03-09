@@ -5,7 +5,7 @@ AS
 begin
 	set nocount on;
 
-	SELECT [id], [UserName], [FirstName], [LastName], [Password]
+	SELECT [Id], [UserName], [FirstName], [LastName], [Password]
 
 	FROM [dbo].Users
 	WHERE [UserName] = @username

@@ -11,22 +11,19 @@ namespace BlogTestUI
         {
             SqlData db = GetConnection();
 
-            //Authenticate(db);
-            //Console.WriteLine("Press Enter to Exit...");
-            //Console.ReadLine();
+            Authenticate(db);
 
-            //Register(db);
-
-            //Register(db);
-
+            Register(db);
 
             AddPost(db);
 
-            AddPost(db);
+            ListPosts(db);
 
-            //ListPosts(db);
+            ShowPostDetails(db);
 
-            //ShowPostDetails(db);
+            Console.WriteLine("Press Enter to Exit...");
+            Console.ReadLine();
+
         }
 
         private static UserModel GetCurrentUser(SqlData db)
