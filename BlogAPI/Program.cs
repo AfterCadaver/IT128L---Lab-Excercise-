@@ -38,6 +38,18 @@ namespace BlogAPI
             builder.Services.AddTransient<ISqlDataAccess, SqlDataAccess>();
             builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 
+            // potentially unstable, remove if problematic
+            builder.Services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder =>
+                {
+                    builder.WithOrigins("http://localhost:4200")
+                           .AllowAnyHeader()
+                           .AllowAnyMethod();
+                });
+            });
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -47,12 +59,15 @@ namespace BlogAPI
                 app.UseSwaggerUI();
             }
 
+            app.UseCors();
+
             app.UseHttpsRedirection();
 
             app.UseAuthentication();
 
             app.UseAuthorization();
 
+            
 
             app.MapControllers();
 

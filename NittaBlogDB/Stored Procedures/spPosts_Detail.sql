@@ -6,5 +6,5 @@ begin
 	FROM dbo.Posts p
 	INNER JOIN dbo.Users u
 	ON p.UserId = u.Id
-	WHERE p.UserId = @id;
+	WHERE p.Id = @id;
 end

@@ -208,7 +208,7 @@ begin
 	FROM dbo.Posts p
 	INNER JOIN dbo.Users u
 	ON p.UserId = u.Id
-	WHERE p.UserId = @id;
+	WHERE p.Id = @id;
 end]]></Value>
 			</Property>
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -273,7 +273,7 @@ end]]></Value>
 				</Entry>
 			</Relationship>
 			<Annotation Type="SysCommentsObjectAnnotation">
-				<Property Name="Length" Value="264" />
+				<Property Name="Length" Value="260" />
 				<Property Name="StartLine" Value="1" />
 				<Property Name="StartColumn" Value="1" />
 				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[spPosts_Detail]&#xD;&#xA;&#x9;@id int&#xD;&#xA;AS" />
